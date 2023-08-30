@@ -11,11 +11,11 @@
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
 - 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
-- 🔥 Estudando Gestão de projetos e FRONTEND
-- 👽 PT-BR and US English speaker! 
+- 💻 Estudando Gestão de projetos e FRONTEND 
+- 👽 PT-BR and US English speaker
 
 
-  ##
+  <br>
 
 <div> 
   <a href="https://www.linkedin.com/in/murillo-ferreira-38a938192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a> 
