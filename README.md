@@ -9,7 +9,7 @@
 
 <br>
 
-- 🧑🏾‍💻 Gerente de Projetos 
+- 🧑🏾‍💻 Gerente de Projetos - PmWeb
 - 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
 - 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
 - 💻 Estudando Gestão de projetos e FRONTEND 
