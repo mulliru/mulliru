@@ -13,6 +13,7 @@
 - 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
 - 💻 Estudando Gestão de projetos e FRONTEND 
 - 👽 PT-BR and US English speaker
+- 🧑🏾‍💻 Gerente de Projetos 
 
 
   <br>
